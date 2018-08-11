@@ -3,3 +3,12 @@ When I initialize a repository using "git init" command. An invisible .git direc
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area is a transitional stage showing in what files I introduced changes and want to add them to a repository in a single commit. It offers me an opportunity to commit changes I introduced in multiple files via a single commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+When I commit everything from the staging area it represents one commit. If I put all the changes to the stages area representing a logical change I will make sure one commit represents one logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When I found a bug in previous versions, or want to introduce a change to a previous versioni, or want to introduce a new feature to a orking master branch
+
+How do the diagrams help you visualize the branch structure?
+They make it a lot easier to understand the "history" of project
