@@ -1,0 +1,35 @@
+
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Using FC in command line makes it easier to see bugs or typos
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    If I make some changes that break my code I also have a previos version that worked OK. 
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pros: you can create a commit manually when you think you have finished the code you want to save. 
+    Cons: you can forget to save something
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Changes in multiple files might affect the same program. For example, changes in HTML and CSS files of a single webpage.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Fill in your answer here
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Fill in your answer here
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    For tracking my learning progress (Freecodecamp and other resources)

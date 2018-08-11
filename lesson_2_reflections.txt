@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+When I initialize a repository using "git init" command. An invisible .git directory is created that allows me to utilize version control. The number of initial commits in this repository is 0 and I can see a list of untacked files in this repository by typing "git log"
