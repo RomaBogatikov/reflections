@@ -1,2 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 When I initialize a repository using "git init" command. An invisible .git directory is created that allows me to utilize version control. The number of initial commits in this repository is 0 and I can see a list of untacked files in this repository by typing "git log"
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area is a transitional stage showing in what files I introduced changes and want to add them to a repository in a single commit. It offers me an opportunity to commit changes I introduced in multiple files via a single commit.
