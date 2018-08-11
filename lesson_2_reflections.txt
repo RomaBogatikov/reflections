@@ -12,3 +12,9 @@ When I found a bug in previous versions, or want to introduce a change to a prev
 
 How do the diagrams help you visualize the branch structure?
 They make it a lot easier to understand the "history" of project
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result is that all changes introduced in a branch that is merged into master are going to be merged, as well as all the changes introduced to a master branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros of automatic merging is that it is fast. Doing merges manually ensures all the conflicts are resolved (don't forget to include 'Conflict: <file name>' when making a commit with a manual commit message '-m')
