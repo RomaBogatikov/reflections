@@ -6,3 +6,6 @@ That ensures my commit is small enough and logically complete.
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Fork is basically a copy of someone's public repository which you make to your github account. You do so to introduce some changes to the code and work on it all by yourself, separate from the original developer. A clone is also a copy of a repository which you make to your PC. Branches allow you to preserve the main code (master branch), or create a new branch and experiment.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+That's the way to merge changes made in the remote repository. By using 'fetch' I can update my local origin/master branch, use 'git diff' to compare changes and then merge two branches together
