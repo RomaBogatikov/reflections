@@ -3,3 +3,6 @@ when I want to make my work public and receive contributions (pull requests) fro
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 That ensures my commit is small enough and logically complete.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork is basically a copy of someone's public repository which you make to your github account. You do so to introduce some changes to the code and work on it all by yourself, separate from the original developer. A clone is also a copy of a repository which you make to your PC. Branches allow you to preserve the main code (master branch), or create a new branch and experiment.
